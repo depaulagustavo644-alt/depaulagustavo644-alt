@@ -92,11 +92,11 @@ CSS3
 # 🌐 Contato
 
 <p align="center">
-  <a href="https://instagram.com/SEUINSTAGRAM" target="_blank">
+  <a href="https://instagram.com/gudepaula2008" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="52"/>
   </a>
 
-  <a href="https://linkedin.com/in/www.linkedin.com/in/gustavo-de-paula-" target="_blank">
+  <a href="www.linkedin.com/in/gustavo-de-paula-" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52"/>
   </a>
 
